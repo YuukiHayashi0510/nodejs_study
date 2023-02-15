@@ -5,6 +5,7 @@
   "type": "module",
   "license": "MIT",
   "dependencies": {
-    "commander": "9.0"
+    "commander": "9.0",
+    "marked": "4.0"
   }
 }
